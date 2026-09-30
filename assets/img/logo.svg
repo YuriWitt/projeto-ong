@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Logotipo da ONG Esperanca Viva</title>
+  <desc id="desc">Simbolo circular com folhas e pessoas representando cuidado comunitario.</desc>
+  <rect width="512" height="512" rx="96" fill="#e8f5ef"/>
+  <circle cx="256" cy="256" r="178" fill="#1f7a5b"/>
+  <path d="M164 304c34-74 89-124 169-150 8 76-20 137-78 184-34-1-64-12-91-34z" fill="#ffffff"/>
+  <path d="M210 323c28-63 78-111 140-143" fill="none" stroke="#1f7a5b" stroke-width="18" stroke-linecap="round"/>
+  <circle cx="190" cy="222" r="30" fill="#ffffff"/>
+  <circle cx="322" cy="222" r="30" fill="#ffffff"/>
+  <path d="M143 346c20-54 74-78 113-43 39-35 93-11 113 43" fill="none" stroke="#ffffff" stroke-width="32" stroke-linecap="round"/>
+</svg>
